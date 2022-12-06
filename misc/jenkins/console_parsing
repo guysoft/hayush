@@ -1,0 +1,7 @@
+error /mv: cannot stat/
+error /Traceback/
+error /rsync error/
+warning /some files/
+error /see previous errors/
+warning /already mounted/
+error /pg_dump: error/
