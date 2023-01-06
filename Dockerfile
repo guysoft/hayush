@@ -1,9 +1,9 @@
-FROM git.pleroma.social:5050/pleroma/pleroma:develop
+# FROM git.pleroma.social:5050/pleroma/pleroma:develop
 # FROM --platform=linux/arm/v7 git.pleroma.social:5050/pleroma/pleroma:develop
 # FROM git.pleroma.social:5050/pleroma/pleroma:92a8ff59
 # FROM docker.io/library/pleroma
 # FROM pleroma-new
-# From pleroma
+From pleroma
 
 MAINTAINER Guy Sheffer <guysoft at gmail dot com>
 
